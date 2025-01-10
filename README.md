@@ -13,10 +13,18 @@ Then you got the Key.
 
 ## Q/A:
 ### Where can I activate Tuneblade?
-#### 我去哪里激活TB？
-### At the settings menu - License, then input your Email Add and generated code.
-#### 我懒得再写一遍了你不会就去百度吧。
+
+ 我去哪里激活TB？
+
+At the settings menu - License, then input your Email Add and generated code.
+
+我懒得再写一遍了你不会就去百度吧。
+
 ### Where can I download the Keygen?
+
 #### 我去哪下载注册机？
-### In the Release.
-#### 你不会看一下release吗。
+
+In the Release.
+
+你不会看一下release吗。
+
